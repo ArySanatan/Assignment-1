@@ -1,7 +1,6 @@
-# Write a Python program that checks a number divisible by 3 and 2.
+# Q2. Write a Python program that checks a number divisible by 3 and 2.
 
-print("Enter Number")
-Num=int(input()) 
+Num=int(input("Enter Number : ")) 
 
 #conditions
 if(Num%3==0):
