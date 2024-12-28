@@ -1,4 +1,4 @@
-'''Write a Python program that takes 3 number and print the largest number.'''
+'''Q6. Write a Python program that takes 3 number and print the largest number.'''
 
 Num_1 = int(input("Enter 1st Number : "))
 Num_2 = int(input("Enter 2nd Number : "))

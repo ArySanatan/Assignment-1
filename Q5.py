@@ -1,4 +1,4 @@
-'''Write a Python program that takes a number as input and checks if it is a 3-digit
+''' Q5. Write a Python program that takes a number as input and checks if it is a 3-digit
 number.'''
 
 num=int(input("Enter a Number : "))
